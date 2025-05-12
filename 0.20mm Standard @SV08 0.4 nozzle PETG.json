@@ -1,0 +1,15 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @Sovol SV08 0.4 nozzle",
+    "initial_layer_infill_speed": "70",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @SV08 0.4 nozzle PETG",
+    "print_settings_id": "0.20mm Standard @SV08 0.4 nozzle PETG",
+    "sparse_infill_pattern": "cubic",
+    "support_style": "default",
+    "support_threshold_angle": "40",
+    "support_type": "tree(auto)",
+    "version": "2.3.0.3",
+    "wall_sequence": "inner wall/outer wall"
+}
