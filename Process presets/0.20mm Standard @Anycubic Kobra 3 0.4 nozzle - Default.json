@@ -1,0 +1,9 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @Anycubic Kobra 3 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Anycubic Kobra 3 0.4 nozzle - Default",
+    "print_settings_id": "0.20mm Standard @Anycubic Kobra 3 0.4 nozzle - Default",
+    "version": "2.3.0.3"
+}

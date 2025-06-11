@@ -1,0 +1,19 @@
+{
+    "compatible_printers": [
+        "Anycubic Kobra 3 0.4 nozzle"
+    ],
+    "filament_settings_id": [
+        "SUNLU PETG @Anycubic Kobra 3"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "75"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "75"
+    ],
+    "inherits": "SUNLU PETG @System",
+    "is_custom_defined": "0",
+    "name": "SUNLU PETG @Anycubic Kobra 3",
+    "version": "2.3.0.3"
+}

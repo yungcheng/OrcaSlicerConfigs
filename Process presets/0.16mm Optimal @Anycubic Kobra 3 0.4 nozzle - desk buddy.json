@@ -1,0 +1,15 @@
+{
+    "brim_type": "no_brim",
+    "enable_support": "1",
+    "filename_format": "{input_filename_base}_{filament_type[1]}_{layer_height}_{print_time}.gcode",
+    "from": "User",
+    "fuzzy_skin": "external",
+    "fuzzy_skin_point_distance": "0.15",
+    "fuzzy_skin_thickness": "0.15",
+    "inherits": "0.16mm Optimal @Anycubic Kobra 3 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "0.16mm Optimal @Anycubic Kobra 3 0.4 nozzle - desk buddy",
+    "print_settings_id": "0.16mm Optimal @Anycubic Kobra 3 0.4 nozzle - desk buddy",
+    "support_threshold_angle": "25",
+    "version": "2.3.0.3"
+}

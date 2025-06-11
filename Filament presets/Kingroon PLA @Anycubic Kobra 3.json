@@ -1,0 +1,49 @@
+{
+    "compatible_printers": [
+        "Anycubic Kobra 3 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_settings_id": [
+        "Kingroon PLA @Anycubic Kobra 3"
+    ],
+    "filament_vendor": [
+        "Kingroon"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Generic PLA @System",
+    "is_custom_defined": "0",
+    "name": "Kingroon PLA @Anycubic Kobra 3",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "nozzle_temperature_range_high": [
+        "210"
+    ],
+    "pressure_advance": [
+        "0.01"
+    ],
+    "supertack_plate_temp": [
+        "50"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "50"
+    ],
+    "version": "2.3.0.3"
+}

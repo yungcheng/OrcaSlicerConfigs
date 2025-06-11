@@ -1,0 +1,52 @@
+{
+    "compatible_printers": [
+        "Sovol SV08 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "30"
+    ],
+    "fan_min_speed": [
+        "40"
+    ],
+    "filament_flow_ratio": [
+        "0.9"
+    ],
+    "filament_max_volumetric_speed": [
+        "8"
+    ],
+    "filament_retraction_length": [
+        "0.5"
+    ],
+    "filament_settings_id": [
+        "Kingroon PETG @SV08"
+    ],
+    "filament_vendor": [
+        "Kingroon"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @System",
+    "is_custom_defined": "0",
+    "name": "Kingroon PETG @SV08",
+    "nozzle_temperature": [
+        "235"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "overhang_fan_speed": [
+        "99"
+    ],
+    "overhang_fan_threshold": [
+        "10%"
+    ],
+    "slow_down_layer_time": [
+        "5"
+    ],
+    "version": "2.3.0.3"
+}
