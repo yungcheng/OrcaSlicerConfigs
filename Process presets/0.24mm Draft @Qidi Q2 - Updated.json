@@ -1,0 +1,13 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.24mm Draft @Qidi Q2",
+    "is_custom_defined": "0",
+    "name": "0.24mm Draft @Qidi Q2 - Updated",
+    "print_settings_id": "0.24mm Draft @Qidi Q2 - Updated",
+    "seam_position": "back",
+    "skirt_loops": "0",
+    "slowdown_for_curled_perimeters": "0",
+    "version": "2.3.0.3",
+    "wall_sequence": "inner-outer-inner wall"
+}

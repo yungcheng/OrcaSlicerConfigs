@@ -1,0 +1,22 @@
+{
+    "compatible_printers": [
+        "Anycubic Kobra 3 0.4 nozzle"
+    ],
+    "filament_settings_id": [
+        "PolyLite ABS @Anycubic Kobra 3"
+    ],
+    "from": "User",
+    "inherits": "PolyLite ABS @System",
+    "is_custom_defined": "0",
+    "name": "PolyLite ABS @Anycubic Kobra 3",
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "supertack_plate_temp": [
+        "100"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "2.3.0.3"
+}

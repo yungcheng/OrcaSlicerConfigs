@@ -1,0 +1,25 @@
+{
+    "compatible_printers": [
+        "Elegoo Centauri Carbon 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_retraction_length": [
+        "0.4"
+    ],
+    "filament_settings_id": [
+        "PolyLite ABS @Centauri Carbon 0.4 (18 Max Volumetric)"
+    ],
+    "from": "User",
+    "inherits": "PolyLite ABS @System",
+    "is_custom_defined": "0",
+    "name": "PolyLite ABS @Centauri Carbon 0.4 (18 Max Volumetric)",
+    "pressure_advance": [
+        "0.015"
+    ],
+    "version": "2.3.0.3"
+}

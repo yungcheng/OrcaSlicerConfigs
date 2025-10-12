@@ -1,0 +1,73 @@
+{
+    "activate_air_filtration": [
+        "0"
+    ],
+    "adaptive_pressure_advance": [
+        "1"
+    ],
+    "adaptive_pressure_advance_overhangs": [
+        "1"
+    ],
+    "additional_cooling_fan_speed": [
+        "60"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "20"
+    ],
+    "fan_max_speed": [
+        "80"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Kingroon PETG @Qidi Q2"
+    ],
+    "filament_vendor": [
+        "Kingroon"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "inherits": "Generic PETG @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Kingroon PETG @Qidi Q2",
+    "nozzle_temperature": [
+        "255"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "255"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "overhang_fan_threshold": [
+        "0%"
+    ],
+    "pressure_advance": [
+        "0.02"
+    ],
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "slow_down_min_speed": [
+        "10"
+    ],
+    "textured_plate_temp": [
+        "70"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "2.3.0.3"
+}

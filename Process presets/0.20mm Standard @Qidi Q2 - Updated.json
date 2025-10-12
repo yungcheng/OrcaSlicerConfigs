@@ -1,0 +1,17 @@
+{
+    "brim_type": "no_brim",
+    "default_acceleration": "8000",
+    "from": "User",
+    "gcode_label_objects": "1",
+    "inherits": "0.20mm Standard @Qidi Q2",
+    "inner_wall_acceleration": "8000",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Qidi Q2 - Updated",
+    "outer_wall_acceleration": "6000",
+    "precise_outer_wall": "0",
+    "print_settings_id": "0.20mm Standard @Qidi Q2 - Updated",
+    "sparse_infill_pattern": "adaptivecubic",
+    "version": "2.3.0.3",
+    "wall_generator": "arachne",
+    "wall_sequence": "inner-outer-inner wall"
+}

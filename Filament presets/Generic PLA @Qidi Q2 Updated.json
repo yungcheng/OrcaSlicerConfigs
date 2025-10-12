@@ -1,0 +1,19 @@
+{
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Generic PLA @Qidi Q2 Updated"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Generic PLA @Qidi Q2 Updated",
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "2.3.1.0"
+}
