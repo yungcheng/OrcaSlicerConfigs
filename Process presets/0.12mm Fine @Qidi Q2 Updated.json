@@ -1,0 +1,10 @@
+{
+    "default_acceleration": "8000",
+    "from": "User",
+    "inherits": "0.12mm Fine @Qidi Q2",
+    "is_custom_defined": "0",
+    "name": "0.12mm Fine @Qidi Q2 Updated",
+    "print_settings_id": "0.12mm Fine @Qidi Q2 Updated",
+    "version": "2.3.1.10",
+    "wall_sequence": "inner-outer-inner wall"
+}

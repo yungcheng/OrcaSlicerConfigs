@@ -63,11 +63,5 @@
     "slow_down_min_speed": [
         "10"
     ],
-    "textured_plate_temp": [
-        "70"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "80"
-    ],
     "version": "2.3.0.3"
 }

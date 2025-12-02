@@ -6,16 +6,16 @@
         "1"
     ],
     "filament_settings_id": [
-        "Generic PLA - Updated"
+        "KINGROON PLA Basic"
+    ],
+    "filament_vendor": [
+        "KINGROON"
     ],
     "from": "User",
     "inherits": "Generic PLA @System",
     "is_custom_defined": "0",
-    "name": "Generic PLA - Updated",
-    "nozzle_temperature": [
-        "230"
-    ],
-    "nozzle_temperature_initial_layer": [
+    "name": "KINGROON PLA Basic",
+    "nozzle_temperature_range_high": [
         "230"
     ],
     "slow_down_layer_time": [
